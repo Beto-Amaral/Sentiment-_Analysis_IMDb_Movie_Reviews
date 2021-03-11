@@ -1,1 +1,1 @@
-Sentiment-_Analysis_IMDb_Movie_Reviews
+Sentiment_Analysis_IMDb_Movie_Reviews
