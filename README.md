@@ -1,4 +1,13 @@
 Sentiment_Analysis_IMDb_Movie_Reviews
 
 ### Dataset
-The core dataset contains 50,000 reviews split evenly into 25k train and 25k test sets. The overall distribution of labels is balanced (25k pos and 25k neg). We also include an additional 50,000 unlabeled documents for unsupervised learning.
+The dataset contains 50,000. The overall distribution of labels is balanced (25k positive reviews and 25k negative reviews). 
+
+### References
+https://towardsdatascience.com/naive-bayes-algorithm-for-classification-bc5e98bff4d7
+https://www.nltk.org/api/nltk.tokenize.html
+https://towardsdatascience.com/detecting-bad-customer-reviews-with-nlp-d8b36134dc7e
+https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
+
+### Contact
+For questions please contact Roberto Amaral - roberto.amaral@gmail.com
