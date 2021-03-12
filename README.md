@@ -10,6 +10,7 @@ https://towardsdatascience.com/naive-bayes-algorithm-for-classification-bc5e98bf
 https://www.nltk.org/api/nltk.tokenize.html
 https://towardsdatascience.com/detecting-bad-customer-reviews-with-nlp-d8b36134dc7e
 https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
+https://towardsdatascience.com/gentle-start-to-natural-language-processing-using-python-6e46c07addf3
 
 ### Contact
 For questions please contact Roberto Amaral - roberto.amaral@gmail.com
