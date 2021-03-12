@@ -1,4 +1,4 @@
-Sentiment_Analysis_IMDb_Movie_Reviews
+Sentiment_Analysis_IMDb_Movie_Review
 
 ### Dataset
 The dataset contains 50,000. The overall distribution of labels is balanced (25k positive reviews and 25k negative reviews). 
